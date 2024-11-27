@@ -4,6 +4,7 @@
 Requirements
 ****
 Python
+Install requirements.txt file in Project folder
 ****
 Procedure
 ****
